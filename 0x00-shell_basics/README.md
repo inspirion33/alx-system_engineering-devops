@@ -10,3 +10,4 @@ Updating Tasks 5:  7. Betty in my first directory
 Delete the file betty.
 Delete the directory my_first_directory that is in the /tmp directory.
 Task 10 Updated: Move back to previous dir
+Write a script that lists all files (even ones with names beginning with a period character
