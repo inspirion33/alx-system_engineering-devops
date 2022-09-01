@@ -4,3 +4,5 @@ Write a script that changes the working directory to the user’s home directory
 Updating Tasks 2:  Display current directory contents in a long format.
 Display current directory contents, including hidden files (starting with .)
 Updating Tasks 5:  Display current directory contents.
+Create a script that creates a directory named my_first_directory in the /tmp/ directory.
+Create a script that creates a directory named my_first_directory in the /tmp/ directory.
